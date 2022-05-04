@@ -1,4 +1,3 @@
 # projecteDAW1
 
-
-Canviad las BD, estan obsoletas
+Projecte realitza al 1r curs de DAW al institut Baix camp de reus.
