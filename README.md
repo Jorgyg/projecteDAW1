@@ -1,4 +1,4 @@
 # projecteDAW1
 
 
-Canviad las BD
+Canviad las BD, estan obsoletas
